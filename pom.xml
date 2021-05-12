@@ -16,7 +16,7 @@
             https://raw.githubusercontent.com/mate-academy/style-guides/master/java/checkstyle.xml
         </maven.checkstyle.plugin.configLocation>
         <spring.version>5.2.7.RELEASE</spring.version>
-        <security.version>5.3.3.RELEASE</security.version>
+        <security.version>5.3.9.RELEASE</security.version>
         <flyway.user>bcrew_user</flyway.user>
         <flyway.password>1324domik</flyway.password>
         <flyway.schemas>bcrew_default</flyway.schemas>
